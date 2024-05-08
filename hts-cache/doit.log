@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "<!-- -->" -%l "en, *" https://www.chaiiwala.co.uk/ -O1 "D:\client-sites\bikash" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2*
+File generated automatically on Tue, 07 May 2024 20:35:52, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,39 @@
+.elementor-8013 .elementor-element.elementor-element-4fe7b0ae > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-8013 .elementor-element.elementor-element-4fe7b0ae:not(.elementor-motion-effects-element-type-background), .elementor-8013 .elementor-element.elementor-element-4fe7b0ae > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-8013 .elementor-element.elementor-element-4fe7b0ae{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:30px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-8013 .elementor-element.elementor-element-4fe7b0ae > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8013 .elementor-element.elementor-element-39467079:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-8013 .elementor-element.elementor-element-39467079 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-8013 .elementor-element.elementor-element-39467079 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:20px 20px 20px 20px;--e-column-margin-right:20px;--e-column-margin-left:20px;}.elementor-8013 .elementor-element.elementor-element-39467079 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8013 .elementor-element.elementor-element-39467079 > .elementor-element-populated > .elementor-widget-wrap{padding:50px 10px 10px 10px;}.elementor-8013 .elementor-element.elementor-element-39467079{width:50% !important;}.elementor-8013 .elementor-element.elementor-element-9d5aca3 .blog-list .post-inner-loop .grid-item{padding:15px 15px 15px 15px;}.elementor-8013 .elementor-element.elementor-element-9d5aca3 .blog-list .post-inner-loop .post-title,.elementor-8013 .elementor-element.elementor-element-9d5aca3 .blog-list .post-inner-loop .post-title a{font-family:"Ek Mukta", Sans-serif;font-size:70px;font-weight:700;line-height:70px;color:#FFFFFF;}.elementor-8013 .elementor-element.elementor-element-a204215:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-8013 .elementor-element.elementor-element-a204215 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-8013 .elementor-element.elementor-element-a204215 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-8013 .elementor-element.elementor-element-a204215 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8013 .elementor-element.elementor-element-a204215 > .elementor-element-populated > .elementor-widget-wrap{padding:70px 20px 20px 0px;}.elementor-8013 .elementor-element.elementor-element-b7d88fd .blog-list .post-inner-loop .grid-item{padding:15px 15px 0px 15px;}.elementor-8013 .elementor-element.elementor-element-b7d88fd .blog-list .post-inner-loop .post-category-list span a:before{background:#ff214f;}body.elementor-page-8013:not(.elementor-motion-effects-element-type-background), body.elementor-page-8013 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#ffffff;}@media(max-width:1366px){.elementor-8013 .elementor-element.elementor-element-4fe7b0ae{padding:50px 0px 20px 0px;}}@media(max-width:767px){.elementor-8013 .elementor-element.elementor-element-39467079 > .elementor-element-populated > .elementor-widget-wrap{padding:10px 10px 10px 10px;}.elementor-8013 .elementor-element.elementor-element-a204215 > .elementor-element-populated > .elementor-widget-wrap{padding:10px 10px 10px 10px;}}/* Start custom CSS for tp-blog-listout, class: .elementor-element-9d5aca3 */.blog-list.blog-style-1 .post-content-bottom {
+    padding: 30px;
+    bottom: 0;
+    position: absolute;
+    background: transparent;
+    width: 100%;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    z-index: 1;
+    overflow: hidden;
+    top: 40%;
+}/* End custom CSS */
+/* Start custom CSS for tp-blog-listout, class: .elementor-element-b7d88fd */.blog-list.blog-style-2 .blog-list-content {
+    box-shadow: none;
+    border-radius: 3px;
+}
+.header-main {
+  
+    background: #000;
+}
+#pt-plus-blog-post-list.blog-list.blog-style-2 .post-category-list {
+      margin-bottom: 0px;
+}/* End custom CSS */
+/* Start custom CSS */input[type=email], input[type=number], input[type=password], input[type=reset], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea {
+    color: #ffffff;
+    padding: 0.75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eaeaea;
+    border-radius: 2px;
+    background: rgb(250 250 250 / 50%);
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}/* End custom CSS */
